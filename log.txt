@@ -1,0 +1,4 @@
+***06/02/2018***
+-Kiet:
+	- Setup raspbian
+	- Create git
